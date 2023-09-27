@@ -1,0 +1,77 @@
+  
+            *{
+                padding:0;
+                margin:0;
+                box-sizing:border-box; 
+            }
+            #logo img{
+                border-radius:50%;
+            }
+            #email input{
+              width:70%; 
+              outline:none;
+            
+            }
+            #email span{
+                width:30%;
+            }
+            
+.card:hover{
+    position:relative;
+    bottom:25px;
+    cursor:pointer;
+}
+.prof-block{
+    min-width:220px;
+    background-color:white;
+    border-radius:8px;
+}
+.navbar-nav {
+    color:white;
+}
+.navbar-nav li:hover{
+   background-color:#ffc107;
+
+}
+.navbar .nav-item a:hover{
+     color:black; 
+     font-weight:bold;
+}
+
+
+.navbar .nav-item a {
+      color: white;
+      font-weight:bold;
+    }
+    .navbar.navbar-brand a{
+       color: white; 
+    }
+    .navbar .navbar-brand
+    {
+        color:white;
+        font-weight: bold;
+    }
+    .update-box{
+        background-color:whitesmoke;
+ box-shadow: 6px 8px 20px rgb(0, 0, 0);
+
+    }
+    .update-box button{
+        outline:none;
+        pointer:cursor;
+        border:none;
+    }
+    .login-block{
+        border-radius:20px;
+    }
+         #password-update{
+          
+                width:800px;
+                margin:0 auto;
+                background-color:aliceblue;
+             
+            }
+            #frmchangepassword{
+                border-radius:10px;
+            }
+      
